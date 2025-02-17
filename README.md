@@ -25,7 +25,7 @@ npm run dev
 ### Compile and Minify for Production
 
 ```sh
-npm run build
+npm run generate
 ```
 
 ### Lint with [ESLint](https://eslint.org/)
